@@ -1,6 +1,6 @@
 - 👋 Hi, My name is @SanthoshNC
-- 👀 I’m interested in Dev[Sec}Ops & Cloud
-- 🌱 I’m currently learning & working on my Pet Projects
+- 👀 I’m working in the areas of Dev[Sec}Ops & Cloud
+- 🌱 In addition to this, I’m currently learning & working on my Pet Projects
 
 <!---
 SanthoshNC/SanthoshNC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
